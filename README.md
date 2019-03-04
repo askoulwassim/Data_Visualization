@@ -5,13 +5,13 @@ This report is the exploratory part of a data visualization project. The report 
 
 An explanation of the variables used:
 
-COUNTRY: 3 countries (Finland, United Arab Emirates, United States of America)
-GENDER: 2 genders (Female, Male)
-ENJMATH: answers to "Do you (the student) enjoy mathematics?" 4 answers (Strongly disagree, Disagree, Agree, Strongly agree)
-PARENJMATH: answers to "Do your parents (the student's parents) enjoy mathematics?" 4 answers (Strongly disagree, Disagree, Agree, Strongly agree)
-WEALTH: a float that is calculated by number of questions in the PISA 2012 dataset to measure wealth of the family of the student
-TEACHERCLASSMANAG: a float that is calculated by number of questions in the PISA 2012 dataset to measure class management by the teacher
-COGNITIVEACTIV: a float that is calculated by number of questions in the PISA 2012 dataset to measure the cognitive activation of mathematics by the student
-TEACHSTUDRELAT: a float that is calculated by number of questions in the PISA 2012 dataset to measure the relationship between the teacher and the student
-PV1MATH, PV2MATH, PV3MATH, PV4MATH, PV5MATH: 5 plausible values to the mathematical literacy of the students
+- COUNTRY: 3 countries (Finland, United Arab Emirates, United States of America)
+- GENDER: 2 genders (Female, Male)
+- ENJMATH: answers to "Do you (the student) enjoy mathematics?" 4 answers (Strongly disagree, Disagree, Agree, Strongly agree)
+- PARENJMATH: answers to "Do your parents (the student's parents) enjoy mathematics?" 4 answers (Strongly disagree, Disagree, Agree, Strongly agree)
+- WEALTH: a float that is calculated by number of questions in the PISA 2012 dataset to measure wealth of the family of the student
+- TEACHERCLASSMANAG: a float that is calculated by number of questions in the PISA 2012 dataset to measure class management by the teacher
+- COGNITIVEACTIV: a float that is calculated by number of questions in the PISA 2012 dataset to measure the cognitive activation of mathematics by the student
+- TEACHSTUDRELAT: a float that is calculated by number of questions in the PISA 2012 dataset to measure the relationship between the teacher and the student
+- PV1MATH, PV2MATH, PV3MATH, PV4MATH, PV5MATH: 5 plausible values to the mathematical literacy of the students
 
