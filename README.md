@@ -15,3 +15,6 @@ An explanation of the variables used:
 - TEACHSTUDRELAT: a float that is calculated by number of questions in the PISA 2012 dataset to measure the relationship between the teacher and the student
 - PV1MATH, PV2MATH, PV3MATH, PV4MATH, PV5MATH: 5 plausible values to the mathematical literacy of the students
 
+The main findings of this report are:
+
+The mathematical literacy of Finland in highest between the countries of interest, then USA, and UAE is lowest. The mathematical literacy is positively correlated to congnitive activation of mathematics by students. That relationship holds true when observed per country. Finally, both teacher's class management and teacher-student relationship are positively correlated to student's cognitive activation with a specific rules. Thus, we can recommend working on increasing the teacher's class management efforts and a better teacher-student relationship in order to increase the student's cognitive activation of mathematics, which in return increases the mathematical literacy of the students.
