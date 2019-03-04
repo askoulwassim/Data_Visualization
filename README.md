@@ -18,3 +18,12 @@ An explanation of the variables used:
 The main findings of this report are:
 
 The mathematical literacy of Finland in highest between the countries of interest, then USA, and UAE is lowest. The mathematical literacy is positively correlated to congnitive activation of mathematics by students. That relationship holds true when observed per country. Finally, both teacher's class management and teacher-student relationship are positively correlated to student's cognitive activation with a specific rules. Thus, we can recommend working on increasing the teacher's class management efforts and a better teacher-student relationship in order to increase the student's cognitive activation of mathematics, which in return increases the mathematical literacy of the students.
+
+References used:
+
+http://www.oecd.org/pisa/pisaproducts/CBA12_stu_codebook.pdf
+http://www.oecd.org/pisa/pisaproducts/PISA-2012-technical-report-final.pdf
+https://seaborn.pydata.org/tutorial/color_palettes.html
+https://github.com/mwaskom/seaborn/issues/867
+https://stackoverflow.com/questions/30009948/how-to-reorder-indexed-rows-based-on-a-list-in-pandas-data-frame
+https://matplotlib.org/gallery/text_labels_and_annotations/text_fontdict.html
